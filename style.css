@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+*{
+	padding: 0;
+	margin: 0;
+}
+body {background: #F7F7F7;}
+#container{ 
+width: 960px;
+height: 1500px;
+background:#EFEFEF;
+margin: 0 auto;
+boder: 10px;
+	}
+.header{
+	width: 960px;
+	height: 150px;
+	background:white;}
+.logo1{
+width: 960px;
+height: 100px;
+background: #EFEFEF;
+padding-top: 10px;
+	}
+.logo1 img{ 
+width: 60px;
+height: 80px;
+margin-left: 460px;
+}
+.content img{
+	width: 960px;
+	height: 640px;
+}
+.nav{
+	width: 960px;
+	height:150px;
+	background: #FFFFFF;
+	color: #000000;
+	}
+.nav ul{
+	color: #000000;
+	list-style: none;
+	margin-top:5px;
+	text-align: center;
+	}
+.nav ul li{
+	display: inline-block;
+	width: 100px;
+	height: 30px;
+	line-height: 30px;
+	
+}
+.nav ul li a{ 
+text-decoration: none;
+	font-size: 20px;
+	display: block;
+	border: 2px solid transparent;
+	transition-duration: 0.2s;
+	color: #000000;
+	
+}
+.nav ul li a:hover{
+	border-color: #000000;
+	color: #000000;
+	border-radius: 20px;
+}
+.content{
+	width: 960px;
+	height: 1000px;
+	background: #FFFFFF;
+	}
+* {box-sizing:border-box}
+
+
+
+
+.intro{
+	width: 960px;
+	height: 2100px;
+	background: #EFEFEF;
+    padding-top: 20px;
+	
+	
+}
+.text-ment{
+	text-align: center;
+    color: #000000;
+	margin: 0 auto;
+	width: 500px;
+	height: auto;
+	}
+.text-ment h1{
+	font-size: 30px;
+}
+.text-ment p{
+	padding-top: 20px;
+	font-size: 15px;
+}
+.where{margin-top: 70px }
+.text2 {
+	font-size:30px;
+	text-align: center;
+    color: #000000;
+	margin: 0 auto;
+	width: 500px;
+	height: auto;
+	}
+.trian img{
+	padding-top:20px;
+	width: 680px;
+	height: 520px;
+
+}
+.texttrian{
+	padding-top:20px;
+	font-size:20px;
+	text-align: center;
+    color: #000000;
+	margin: 0 auto;
+	width: 500px;
+	height: auto;
+	font-size: 15px;
+
+	
+}
+.binhthuan img{
+	padding-top:20px;
+	width: 680px;
+	height: 520px;
+
+	
+}
+.textbinhthuan {
+	padding-top:20px;
+	font-size:20px;
+	text-align: center;
+    color: #000000;
+	margin: 0 auto;
+	width: 500px;
+	height: auto;
+	font-size: 15px;
+}
+.dalat img{padding-top:20px;
+	width: 680px;
+	height: 520px;
+	
+}
+.textlamdong{
+	padding-top:20px;
+	font-size:20px;
+	text-align: center;
+    color: #000000;
+	margin: 0 auto;
+	width: 500px;
+	height: auto;
+	font-size: 15px;
+	}
+.footer{
+	background:#EFEFEF;
+	list-style: none;
+	margin-top:1750px;
+	text-align:center;
+	width: 960px;
+	height: 150px;
+}
+.folo{
+	padding-top: 10px;
+	}
+.social img {
+	padding-top: 20px;
+	width: 30px;
+	}
+.copp {
+	padding-top: 20px;
+}
+
+
+
