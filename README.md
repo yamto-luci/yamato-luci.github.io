@@ -1,0 +1,1 @@
+# yamato-luci.github.io
